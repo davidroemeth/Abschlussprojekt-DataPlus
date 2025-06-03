@@ -30,7 +30,7 @@
 
 ## About The Project
 
-![Project Image](/Users/david/Desktop/dataplus/Git/Abschlussprojekt-DataPlus/Bildschirmfoto 2025-05-28 um 13.50.43.png)
+![Project Image](https://static01.nyt.com/images/2020/06/02/opinion/02protest_print/merlin_173017842_2257c506-5b15-4691-995b-04b2974d4a6d-articleLarge.jpg)
 
 A user-friendly interactive Dashboard where interested users can learn more about police brutality in the USA.<br>
 This way, you can dive deeper into the topic using data in an objective but informative way.
