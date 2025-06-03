@@ -30,7 +30,7 @@
 
 ## About The Project
 
-![Project Image](Bildschirmfoto 2025-05-28 um 13.50.43.png)
+![Project Image](/Users/david/Desktop/dataplus/Git/Abschlussprojekt-DataPlus/Bildschirmfoto 2025-05-28 um 13.50.43.png)
 
 A user-friendly interactive Dashboard where interested users can learn more about police brutality in the USA.<br>
 This way, you can dive deeper into the topic using data in an objective but informative way.
@@ -64,8 +64,16 @@ Instruction commands are written for mac users (UNIX), make sure to use the righ
 
 - Create .venv-folder
 
+  ```sh
+  python3 -m venv venv
+  ```
 
-  
+- Activate .venv
+
+  ```sh
+  source .venv/bin/activate
+    ```
+
 
 - Install dependencies
 
@@ -74,11 +82,11 @@ Instruction commands are written for mac users (UNIX), make sure to use the righ
   ```
 
 ## Power BI 
-Datenaufbereitung in Python, Visualisierung in Power BI (URL einfügen)
+Data cleaning and first analysis in Python, Visualization in [Power BI](https://app.powerbi.com/groups/me/reports/e6b2cfac-059e-46f2-a962-294be2026e67/3627c248a28a39b83ad9?ctid=3f997f44-998e-40ab-a814-4db66712c837&experience=power-bi)
 
 ## Contact
 
-[David Römeth @LinkedIn](https://www.linkedin.com/in/olexandr-andriyenko-4a14551b3/)
+[David Römeth @LinkedIn](https://www.linkedin.com/in/davidroemeth/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,8 +94,8 @@ Datenaufbereitung in Python, Visualisierung in Power BI (URL einfügen)
 
 ## Useful information
 
-- [Python Documentation](https://react.dev/learn/installation)
-- [Power BI Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+- [Python Documentation](https://www.python.org/doc/)
+- [Power BI Documentation](https://learn.microsoft.com/de-de/power-bi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
